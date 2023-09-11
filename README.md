@@ -3,19 +3,17 @@
 
 An edge board that is meant to be a development board that breaks out all the pins. And a second board that is meant to assist, that has a small prototyping area.  
 
-![sm]()
+![sm](https://github.com/evezor/v0_devboard_and_sidekick/blob/main/pics/sm.PNG)
 
-![front]()
+![front](https://github.com/evezor/v0_devboard_and_sidekick/blob/main/pics/front.PNG)
 
-![back]()
+![back](https://github.com/evezor/v0_devboard_and_sidekick/blob/main/pics/back.PNG)
 
-![copper]()
+![copper](https://github.com/evezor/v0_devboard_and_sidekick/blob/main/pics/copper.PNG)
 
-![front]()
+![front](https://github.com/evezor/v0_devboard_and_sidekick/blob/main/pics/front1.PNG)
 
-![back]()
-
-![copper]()
+![copper](https://github.com/evezor/v0_devboard_and_sidekick/blob/main/pics/copper1.PNG)
 
 
 source files can be found here: https://github.com/evezor/v0_devboard_and_sidekick
