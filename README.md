@@ -1,4 +1,4 @@
-# Low Power Mosfet Board
+# Devboard and Sidekick
 *please note this board has been deprecated.
 
 An edge board that is meant to be a development board that breaks out all the pins. And a second board that is meant to assist, that has a small prototyping area.  
